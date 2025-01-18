@@ -12,3 +12,8 @@ Here is a list of the parts needed which in combination with the [Daylight Senso
 |R1  |1       | Photoresistor                            |
 |R2  |1       |1 kΩ Resistor                             |
 |L1  |1       | Light bulb                               |
+
+# Image
+Here is an example of the finished Daylight Sensor
+
+![Finished Dayliht Sensor](resources/Circuit.png)
