@@ -2,7 +2,7 @@
 A small light Sensor that turns on a lightbulb when its night.
 
 # Parts needed
-Here is a list of the parts needed which in combination with the [Daylight Sensor](resources\Daylight_Sensor.pdf) can be used to rebuild the Daylight Sensor.
+Here is a list of the parts needed which in combination with the [Daylight Sensor](resources/Daylight_Sensor.pdf) can be used to rebuild the Daylight Sensor.
 
 |Name|Quantity|Component                                 |
 |----|--------|------------------------------------------|
