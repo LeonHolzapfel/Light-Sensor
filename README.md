@@ -16,4 +16,4 @@ Here is a list of the parts needed which in combination with the [Daylight Senso
 # Image
 Here is an example of the finished Daylight Sensor
 
-![Finished Dayliht Sensor](resources/Circuit.png)
+![Finished Daylight Sensor](resources/Circuit.png)
